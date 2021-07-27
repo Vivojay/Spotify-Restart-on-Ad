@@ -1,4 +1,4 @@
-# Spotify-Restart-on-Ad
+# Spotify-Restart-on-Ad [Windows]
 This program restarts and triggers the systemwide play-pause button in the event of an advertisement on Spotify.
 The aim is to create as close to an Anti-Advert Spotify as possible
 
