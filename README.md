@@ -25,5 +25,5 @@ If Spotify restarts, well and good, if not, then the ad has successfully escaped
 
 \
 \
-†The Spotify app restarts in fullscreen/normal size and blocks view temporarily unless minimized again.
+†The Spotify app restarts in fullscreen/normal size and blocks view temporarily unless minimized again.\
 \*Tested on Windows 10 only, may also work on Win 7. If someone tests it out andit works, please notify me.
